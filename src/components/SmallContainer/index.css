@@ -1,0 +1,29 @@
+.individual {
+  display: flex;
+  flex-direction: row;
+
+  margin-top: 10px;
+  list-style-type: none;
+}
+.deletesize {
+  height: 20px;
+  width: 20px;
+}
+.second-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 30px;
+}
+.but {
+  border: 0px;
+  background: none;
+}
+.domain {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.bold {
+  font-family: Roboto;
+  margin-left: 20px;
+}

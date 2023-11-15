@@ -1,0 +1,31 @@
+.applogo {
+  margin-left: 40px;
+}
+.searchcontainer_input {
+  margin-left: 100px;
+  background-color: #2850a7;
+  display: flex;
+  flex-direction: row;
+}
+.hori {
+  height: 100%;
+  margin-top: 0px;
+}
+.bottom_container {
+  border-radius: 40px;
+  background-color: #ececec;
+  margin: 40px;
+  border-radius: 50px;
+  padding: 20px;
+}
+.blue-box {
+  background-color: #2850a7;
+  display: flex;
+  flex-direction: row;
+}
+.bold {
+  font-size: 20px;
+}
+.middle {
+  text-align: center;
+}
